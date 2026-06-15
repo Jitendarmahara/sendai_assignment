@@ -30,4 +30,4 @@ spec:
       securityContext:
        allowPrivilegeEscalation : false
        runAsNonRoot: true
-       runAsUser: 1000
+       runAsUser: 65534
